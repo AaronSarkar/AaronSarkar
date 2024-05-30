@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Aaron
 - 👀 Here you can find some programs I have worked on. I am mainly interested in machine learning and neural networks.
-- 📫 You can reach me on linkedin at https://www.linkedin.com/in/aaron-sarkar-3b59b31b7 or email me at aisarkar@uwaterloo.ca
+- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/aaron-sarkar-3b59b31b7) or email me at aisarkar@uwaterloo.ca
